@@ -18,5 +18,4 @@ This repository contains basic Java programs for beginners to help understand co
 
 ---
 
-## 🗂 Folder Structure
 
